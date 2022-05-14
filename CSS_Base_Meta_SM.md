@@ -17,5 +17,5 @@
     - rcon_password ""
   - Update autoexec.cfg settings /home/steam/SteamCMD/css/cstrike/config/autoexec.cfg
     - sv_setsteamaccount "" (https://steamcommunity.com/dev/managegameservers)
-  -Update admins for SourceMod /home/steam/SteamCMD/css/cstrike/addons/sourcemod/configs/admin_simple.ini
+  - Update admins for SourceMod /home/steam/SteamCMD/css/cstrike/addons/sourcemod/configs/admin_simple.ini
     - Add user to admin simple
