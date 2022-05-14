@@ -11,4 +11,5 @@
 # First boot changes
   - Change root/steam password
   - Update Server.cfg settings
+     - test
 
