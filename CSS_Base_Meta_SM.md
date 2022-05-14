@@ -10,6 +10,10 @@
 
 # First boot changes
   - Change root/steam password
-  - Update Server.cfg settings
-     - test
-
+  - Update Server.cfg settings /home/steam/SteamCMD/css/cstrike/config/server.cfg
+    - hostname ""
+    - rcon_password ""
+  - Update autoexec.cfg settings /home/steam/SteamCMD/css/cstrike/config/autoexec.cfg
+    - sv_setsteamaccount "" (https://steamcommunity.com/dev/managegameservers)
+  -Update admins for SourceMod /home/steam/SteamCMD/css/cstrike/addons/sourcemod/configs/admin_simple.ini
+    - Add user to admin simple
