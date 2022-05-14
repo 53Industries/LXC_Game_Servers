@@ -3,6 +3,7 @@ Repository of LXC based game server.
 
 
 # Counter Stike Source Base Server With Meta and Source Mod
+[a relative link](df)
 Settings
   - Lan/Wan
   - Max Rate: 100000
